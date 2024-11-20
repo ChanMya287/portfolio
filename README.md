@@ -1,4 +1,5 @@
-This project consists of log in, sign up, viewing products, searching products, selecting and managing the products. Commission page which has access to user's device. 
+Mobile android development project written in android stuio software using java. This project consists of log in, sign up, viewing products, searching products, selecting and managing the products. Commission page which has access to user's device, alter and add new commands in gradle file to grant access.
+
 ![Screenshot_20240823_133429](https://github.com/user-attachments/assets/82b02e09-b42d-4599-94f8-f474ad96089a)
 ![Screenshot_20240823_134720](https://github.com/user-attachments/assets/52b2c05b-9e8e-4828-a861-b618f4e55c9f)
 ![Screenshot_20240823_151500](https://github.com/user-attachments/assets/2e8feb8c-953f-4bd4-8165-a983378eb370)
