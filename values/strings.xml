@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Final Project</string>
+    <string name="introTitle"><font color="#7b1113"><i> Fashion fades,</i>\n</font> Style stays.</string>
+    <string name="introSubtitle"><font color="#efefef"> Get personalized Recommendations &amp; Elegance.</font></string>
+    <string name="signUp">Haven\'t created an account? <font color="#5A6485"><u>Sign Up here</u>  </font></string>
+    <string-array name="banner_image_names">
+        <item>bn1</item>
+        <item>bn2</item>
+    </string-array>
+    <string-array name="popular_image_names">
+        <item>vega</item>
+        <item>jeans</item>
+        <item>blazer</item>
+        <item>bs</item>
+        <item>rd</item>
+        <item>skirt</item>
+        <item>blouse</item>
+        <item>vest</item>
+        <item>lhat</item>
+        <item>pdbl</item>
+    </string-array>
+    <string-array name="popular_item_names">
+        <item>Vega Hat</item>
+        <item>Baggy Jeans</item>
+        <item>Sleeveless Blazer</item>
+        <item>Bottom-up Shirt</item>
+        <item>Maroon Corset</item>
+        <item>Drape Skirt</item>
+        <item>Ivory Swirl Blouse</item>
+        <item>Burgundy Vest</item>
+        <item>Plain Vega Hat</item>
+        <item>Leather Side-cut Suit Jacket</item>
+    </string-array>
+    <string-array name="category_image_names">
+        <item>s</item>
+        <item>cp</item>
+        <item>hatb</item>
+    </string-array>
+    <string-array name="descriptions">
+        <item>NaNa inspired Vega Cap. \nIncluding stainless steel decorative chains and accessories
+            which are detachable. \nFabric Detail-Leather and polyester</item>
+        <item>Baggy Street-Style Jeans.\nFabric Detail-Heavy jeans.</item>
+        <item>Sleeveless Cropped Blazer. \nFabric Detail-Satin</item>
+        <item>Vivienne Westwood Inspired Striped Shirt \nStainless Steel Buttons \nFabric Detail-
+            100% Cotton</item>
+        <item>Corset Waistcoat Hybrid \nFabric Detail-Silk</item>
+        <item>Versace-Inspired fold and crease skirt.\nFabric Detail-Made with Silk Crepe De Chine
+            to give the skirt more crinkled texture and let it drape the curves well. Additionally,
+            draping waist accessory is stainless-steel to make the skirt more elegant.</item>
+        <item>Ivory-Colored Blouse with slightly drape waist.\nFabric Detail-Made with Cotton Sateen
+            to give the blouse more structural wrinkle, and elegant and polished look.</item>
+        <item>Burgundy-colored HeavyWeight Vest, with zipper behind the back.\nFabric Detail-Made
+            with wool crepe togive the vest more matte look and warmth.</item>
+        <item>Vega Cap without any accessories.\nFabric Detail-Top Flat made with wool and cap
+            tongue is made with leather.</item>
+        <item>Peter Do SS20 combo suit inspired coat jacket.\nFabric Detail-Faux leather and cotton
+            underneath to give the jacket heavyweight and luxury touch.</item>
+    </string-array>
+</resources>
